@@ -1,6 +1,6 @@
 date,super_bowl,venue,city,state,attendance,team_winner,winning_pts,qb_winner_1,qb_winner_2,coach_winner,team_loser,losing_pts,qb_loser_1,qb_loser_2,coach_loser,combined_pts,difference_pts
 2021-02-7,55,Raymond James Stadium,Tampa,Florida,24835,Tampa Bay Buccaneers,31,Tom Brady,,Bruce Arians,Kansas City Chiefs,9,Patrick Mahomes,,Andy Reid,40,22
-2020-02-02,54,Hard Rock Stadium,Miami Garden,Florida,62417,Kansas City Chiefs,31,Patrick Mahomes,,Andy Reid,San Fransisco 49ers,20,Jimmy Garappolo,,Kyle Shanahan,51,11
+2020-02-02,54,Hard Rock Stadium,Miami Gardens,Florida,62417,Kansas City Chiefs,31,Patrick Mahomes,,Andy Reid,San Fransisco 49ers,20,Jimmy Garappolo,,Kyle Shanahan,51,11
 2019-02-03,53,Mercedes-Benz Stadium,Atlanta,Georgia,70081,New England Patriots,13,Tom Brady,,Bill Belichick,Los Angeles Rams,3,Jared Goff,,Sean McVay,16,10
 2018-02-04,52,U.S. Bank Stadium,Minneapolis,Minnesota,67612,Philadelphia Eagles,41,Nick Foles,,Doug Pederson,New England Patriots,33,Tom Brady,,Bill Belichick,74,8
 2017-02-05,51,NRG Stadium,Houston,Texas,70807,New England Patriots,34,Tom Brady,,Bill Belichick,Atlanta Falcons,28,Matt Ryan,,Dan Quinn,62,6
